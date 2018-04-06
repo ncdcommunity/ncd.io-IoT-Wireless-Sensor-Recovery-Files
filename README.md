@@ -1,0 +1,4 @@
+# ncd.io-IoT-Wireless-Sensor-Recovery-
+Industrial Sensor Wireless Module settings
+These settings cab be used to recover or reset the modules. FOr more info checkout product manual on product pages
+https://store.ncd.io/shop/?fwp_main_facet=enterprise-solutions
